@@ -1,0 +1,9 @@
+# load library
+library(rgdal)
+library(raster)
+library(maptools)
+library(Rcpp)
+library(inline)
+library(microbenchmark)
+library(gdalUtils)
+library(plyr)
